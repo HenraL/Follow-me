@@ -7,10 +7,10 @@
   - a position absolute footer follow-me (stage at the same place, no-mater if the text mooves)
   - an inner follow-me (usefull for aticle, to do an ad break in the middle)
 
-If You use one of my free option, please, kindly, give-me your feedback on it, in:
+If You use one of my free options, please, kindly, give-me your feedback on it, in:
   - either the discor server (https://discord.gg/dtJTBn)
   - or on _codepen_ (https://codepen.io/henry-letellier/pen/OJygPKY)
-  - or even on DEV ()
+  - or even on DEV (https://dev.to/henral/folow-me-195k)
   
 If you liked my project, don't hesitate to click on the follow links to follow-me, yes they really work ;-)
 
